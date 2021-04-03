@@ -1,0 +1,209 @@
+
+.top{
+    background-color: black;
+    height:300px;
+    width:100%;
+    margin:0px auto;
+    position:relative;
+    padding-top:10px;
+}
+
+h1{
+    width:50%;
+    margin:0px auto;
+    position:relative;
+    right:20px;
+    top:45px;
+    text-align:center;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    color:#ec3f6a
+}
+#para1{
+    position: relative;
+    bottom:5px;
+    right:20px;
+    text-align:center;
+    font-size: 70px;
+    color:#3fcac8;
+    font-family: 'Sacramento', cursive;
+
+}
+#bottomcloud{
+    position:relative;
+    left:100px;
+    bottom: 330px;
+}
+#topcloud{
+    position:relative;
+    left:190px;
+    top:20px;
+}
+.top span{
+    text-decoration: underline;
+}
+.top img{
+    position: relative;
+    bottom: 75px;
+    right:45px;
+}
+.middle{
+    background-color: lightgreen;
+    height:200px;
+    width:200px;
+}
+.bottom{
+    background-color: lightsalmon;
+    height:200px;
+    width:200px;
+}
+body{
+    background-color:black;
+    margin:0;
+    text-align:center;
+    font-family:"Ubuntu";
+    height:2100px;
+}
+.skill-row{
+    width: 60%;
+    margin:100px auto 100px auto;
+    text-align:left;
+    line-height: 2;
+}
+.skill1{
+    width:30%;
+    float:left;
+    margin-right:25px;
+    position: relative;
+    top:0px;
+    bottom:10px;
+    right:20px;
+}
+.skill2{
+    width:30%;
+    float:right;
+    margin-left:10px;
+    position: relative;
+    bottom: 55px;
+    top: 6px;
+    right: -12px;
+
+}
+#mh1,#mh2,#ch1{
+    color:#ec3f6a;
+    font-size: 40px;
+    font-weight: bold;
+    position: relative;
+    top:30px;
+
+}
+#mh3,#mh4{
+    color:#ec3f6a;
+    font-size:25px;
+    font-weight: bold;
+    width:80%;
+}
+#mp1,#mp2,#mp3,#cp1,#cp2{
+    color:#3fcac8;
+    font-weight: none;
+    font-size: 20px;
+}
+
+#bp1{
+    color:black;
+    font-weight: bold;
+    position:relative;
+    top:10px;
+}
+.profile img{
+    width:25%;
+    position:relative;
+    top:50px;
+    padding-bottom:30px;
+}
+hr{
+    border-style:none;
+    border-top-style:dotted;
+    border-color: white;
+    border-width:5px;
+    width:5%;
+}
+.footer-link {
+    color:black;
+    margin:0px 20px;
+    margin-top:200px;
+    position:relative;
+    top:15px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+a:hover {
+    color:#ec3f6a;
+}
+.btn{
+    color:white;
+    font-weight: bold;
+    text-decoration: none;
+    border:2px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    position:relative;
+    top:40px;
+}
+.btn:hover{
+    background-color: white;
+    color:black;
+}
+#i1,#i2,#i3{
+    position:relative;
+    top:13px;
+    left:17px;
+    ;
+}
+.bottom-container{
+    background-color:#3fcac8 ;
+    position: relative;
+    top:95px;
+    height: 110px;
+}
+.logo div{
+    text-align:center;
+    font-size:18px;
+    color:#ec3f6a;
+    float:left;
+    position:relative;
+    top: 40px;
+    font-family: 'Caveat', cursive;
+    left: -46px;
+    font-weight: bold;
+} 
+.logo img{
+    float:left;
+    position: relative;
+    left:50px;
+    bottom:30px;
+    width:5%;
+}
+.navbar{
+    top:10px;
+    display:block;
+    width:100%;
+    border:none;
+    margin:40px auto;
+    position: relative;
+    right:40px;
+}
+.navbar li{
+    display:inline-block;
+    margin:0px 20px;
+    font-size:35px;
+}
+.navbar li a{
+   color:#ec3f6a;
+   text-decoration: none;
+}
+.navbar li a:hover,.navbar li a.active,button:hover{
+   text-decoration:underline;
+   color:#3fcac8;
+}

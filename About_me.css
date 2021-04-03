@@ -1,0 +1,126 @@
+
+.top{
+    background-color:black;
+    height:575px;
+    width:100%;
+    margin:0px auto;
+    position:relative;
+    padding-top:80px;
+}
+body{
+    background-color:black;
+    margin:0;
+    text-align:center;
+    font-family:"Ubuntu";
+    height:620px;
+}
+#bp1{
+    color:black;
+    font-weight: bold;
+    position:relative;
+    top:10px;
+}
+hr{
+    border-style:none;
+    border-top-style:dotted;
+    border-color: white;
+    border-width:5px;
+    width:5%;
+}
+.footer-link {
+    color:black;
+    margin:0px 20px;
+    margin-top:200px;
+    position:relative;
+    top:15px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+a:hover {
+    color:#ec3f6a;
+}
+.btn{
+    color:white;
+    font-weight: bold;
+    text-decoration: none;
+    border:2px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    position:relative;
+    top:40px;
+}
+.btn:hover{
+    background-color: white;
+    color:black;
+}
+#i1,#i2,#i3{
+    position:relative;
+    top:12px;
+    left:17px;
+    ;
+}
+.bottom-container{
+    background-color:#3fcac8 ;
+    position: relative;
+    top:95px;
+    height: 110px;
+}
+.logo div{
+    text-align:center;
+    font-size:18px;
+    color:#ec3f6a;
+    float:left;
+    position:relative;
+    top: 40px;
+    font-family: 'Caveat', cursive;
+    left: -46px;
+    font-weight: bold;
+} 
+.logo img{
+    float:left;
+    position: relative;
+    left:50px;
+    bottom:30px;
+    width:5%
+}
+.navbar{
+    top:10px;
+    display:block;
+    width:100%;
+    border:none;
+    margin:40px auto;
+    position: relative;
+    right:40px;
+}
+.navbar li{
+    display:inline-block;
+    margin:0px 20px;
+    font-size:35px;
+}
+.navbar li a{
+   color:#ec3f6a;
+   text-decoration: none;
+}
+.navbar li a:hover,.navbar li a.active,button:hover{
+   text-decoration:underline;
+   color:#3fcac8;
+}
+#mh1{
+    color:#ec3f6a;
+    text-decoration: underline;
+    position:relative;
+    top:70px;
+    margin:auto;
+    font-size: 45px;
+}
+#mp1{
+    color:#3fcac8;
+    text-align:center;
+    width:70%;
+    position:relative;
+    top: 72px;
+    left: 154px;
+    margin-bottom: 215px;
+    font-size: 20px;
+}
