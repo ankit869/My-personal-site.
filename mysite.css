@@ -196,7 +196,7 @@ a:hover {
 }
 .navbar li{
     display:inline-block;
-    margin:0px 20px;
+    margin:0px 10px;
     font-size:35px;
 }
 .navbar li a{
